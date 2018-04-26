@@ -7,8 +7,4 @@ By Donald Zou
 ------更新详情：宽度改成1280px
 
 # 文件详情
----字体
-
-|-----NotoSansCJKsc-hinted
-
-|-----Roboto
+...
