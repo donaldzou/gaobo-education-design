@@ -8,8 +8,5 @@ By Donald Zou
 
 # 文件详情
 ---字体
-
-   
------NotoSansCJKsc-hinted
-
------Roboto
+   -----NotoSansCJKsc-hinted
+   -----Roboto
